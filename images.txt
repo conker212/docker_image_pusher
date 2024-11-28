@@ -1,2 +1,2 @@
 homeassistant/home-assistant:latest
-eclipse/mosquitto:latest
+eclipse/mosquitto
