@@ -1,2 +1,1 @@
-n8nio/n8n
-hotwa/n8n-chinese
+ghcr.io/home-assistant/home-assistant:stable
